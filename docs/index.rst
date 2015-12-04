@@ -4,9 +4,6 @@
    contain the root `toctree` directive.
 
 
-.. toctree::
-	:maxdepth: 3
-
 
 ########################################################
 Welcome to Doric Stacks - Installation documentation!
