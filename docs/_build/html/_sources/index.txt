@@ -2,6 +2,11 @@
    sphinx-quickstart on Fri Dec  4 10:26:47 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+
+
+.. toctree::
+   :maxdepth: 2
+   
 ########################################################
 Welcome to Doric Stacks - Installation documentation!
 ########################################################
@@ -15,9 +20,6 @@ The purpose of this documentation is to chronicle how to install, de-install and
 Principally the current document is so the gallery attendants on Saturday and Sunday can keep track of whether the installation is working and know what to do when it isn't. 
 
 Sorry in advance for all the typos. Spell check will be added in Version 1.1
-
-.. toctree::
-   :maxdepth: 2
 
 #######################
 Installing the work.
@@ -52,15 +54,15 @@ Find the Control Panel
 =======================
 #. Walk into the main Doric Stacks Installation. 
 
-	*To the left of the main body of columns is a room with a window and door. 
-		*There is a computer and audio mixboard inside.
+	* To the left of the main body of columns is a room with a window and door. 
+		* There is a computer and audio mixboard inside.
 
 #. Open the door. 
-	*Be carefull of the cables.
+	* Be careful of the cables.
 
 #. On the right of the computer screen and a mix board. Under the screen there is a keyboard. 
 
-#.First Look at the mix board.
+#. First Look at the mix board.
 
 =========================================
 Monitor Performance via the audio output
