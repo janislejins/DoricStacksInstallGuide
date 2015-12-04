@@ -5,8 +5,8 @@
 
 
 .. toctree::
-   :maxdepth: 2
-   
+
+
 ########################################################
 Welcome to Doric Stacks - Installation documentation!
 ########################################################
